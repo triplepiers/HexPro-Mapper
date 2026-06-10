@@ -1,12 +1,12 @@
 # HexPro Mapper
 > 六边形风格化你的 GeoJSON 地图
 
-<center>
-<img src="https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=000"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-4-06B6D4?logo=tailwindcss&logoColor=fff"/>
-<img src="https://img.shields.io/badge/D3-7-F9A03C?logo=d3dotjs&logoColor=fff"/>
-<img src="https://img.shields.io/badge/Turf.js-7-2F7E3E"/>
-</center>
+<div align="center">
+   <img src="https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=000"/>
+   <img src="https://img.shields.io/badge/Tailwind_CSS-4-06B6D4?logo=tailwindcss&logoColor=fff"/>
+   <img src="https://img.shields.io/badge/D3-7-F9A03C?logo=d3dotjs&logoColor=fff"/>
+   <img src="https://img.shields.io/badge/Turf.js-7-2F7E3E"/>
+</div>
 
 ![PREVIEW](/imgs/preview.png)
 
